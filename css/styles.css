@@ -1,0 +1,73 @@
+/* General Tag Selectors */
+body {
+  background-color: #eec6b5;
+  font-family: 'Raleway', sans-serif;
+  font-size:calc(12px + .5vw);
+}
+/* General Class Selectors */
+
+/* General ID Selectors */
+#footer {
+  bottom: 0;
+  font-size:calc(12px + .2vw);
+  position: fixed;
+  width: 100%;
+}
+
+#pictures {
+  padding: 0% 10%;
+  margin: 0 auto 0 auto;
+}
+
+#videos {
+  padding: 0% 10%;
+  margin: 0 auto 0 auto;
+}
+/* ================================== */
+
+/* Navigation Bar */
+.dropdown-item {
+  color: #ff1212;
+  font-size:calc(12px + .5vw);
+}
+
+.navbar-brand {
+  font-family: 'Indie Flower';
+  font-size:calc(22px + 1.5vw);
+  font-weight: bold;
+  margin: 15px;
+}
+
+.nav-item {
+  font-family: 'Raleway', sans-serif;
+  font-size:calc(12px + 1vw);
+  margin: 15px;
+}
+
+/* Intro Area */
+.top {
+  color: #ffffff;
+  margin: 0 auto;
+  padding: 5px 35px;
+}
+
+.guitarist_title {
+  color: #ff1212;
+  font-family: 'Indie Flower';
+  font-size:calc(22px + 1.5vw);
+  font-weight: bold;
+  margin: 15px;
+}
+
+.caption {
+  font-family: 'Raleway', sans-serif;
+  font-size:calc(12px + .25vw);
+  color: #181819;
+  margin: 0 auto;
+  padding: 5px 35px;
+  text-align: center;
+}
+
+.thumbnail {
+  margin-bottom: 20px;
+}
